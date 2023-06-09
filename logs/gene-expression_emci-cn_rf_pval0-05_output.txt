@@ -1,0 +1,34 @@
+Started scaling and merging data for fold 1... Done
+Started tuning RF for fold 1... Done
+Elapsed time to tune RF: 1771.105 seconds
+Best parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 7, 'max_features': 0.5000000000000001, 'max_leaf_nodes': None, 'max_samples': 0.6000000000000001, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 180, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}
+Test accuracy: 0.506024
+Test      AUC: 0.518648
+
+Started scaling and merging data for fold 2... Done
+Started tuning RF for fold 2... Done
+Elapsed time to tune RF: 1843.636 seconds
+Best parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 0.2, 'max_leaf_nodes': None, 'max_samples': 0.6000000000000001, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 130, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}
+Test accuracy: 0.542169
+Test      AUC: 0.491841
+
+Started scaling and merging data for fold 3... Done
+Started tuning RF for fold 3... Done
+Elapsed time to tune RF: 1622.931 seconds
+Best parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 0.2, 'max_leaf_nodes': None, 'max_samples': 0.5000000000000001, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 150, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}
+Test accuracy: 0.506024
+Test      AUC: 0.442105
+
+Started scaling and merging data for fold 4... Done
+Started tuning RF for fold 4... Done
+Elapsed time to tune RF: 2317.380 seconds
+Best parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 0.4000000000000001, 'max_leaf_nodes': None, 'max_samples': 0.9000000000000001, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}
+Test accuracy: 0.451220
+Test      AUC: 0.465909
+
+Started scaling and merging data for fold 5... Done
+Started tuning RF for fold 5... Done
+Elapsed time to tune RF: 2304.753 seconds
+Best parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 0.6000000000000001, 'max_leaf_nodes': None, 'max_samples': 0.4000000000000001, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 180, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}
+Test accuracy: 0.524390
+Test      AUC: 0.534988
