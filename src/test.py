@@ -9,3 +9,5 @@ print(
 )
 
 print(np.where(np.logical_and(x, np.array([True, True, False, True])), x, 0))
+
+print(np.nonzero(x > 3))
